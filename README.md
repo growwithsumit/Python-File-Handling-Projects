@@ -21,12 +21,14 @@ This script (`Read a File and Handle Errors.py`) demonstrates how to open and re
 #### Expected Output
 
 **If `sample.txt` exists:**
+
 Reading file content:
 Line 1: This is a sample text file.
 Line 2: It contains multiple lines.
 
 
 **If `sample.txt` does not exist:**
+
 Error: The file 'sample.txt' was not found.
 
 
