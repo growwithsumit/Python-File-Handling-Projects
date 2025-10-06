@@ -49,11 +49,15 @@ This interactive script (`Write and Append Data to a File.py`) demonstrates how 
 Here is a sample of what you'll see when you run the script:
 
 Enter text to write to the file: Hello, Python!
+
 Data successfully written to output.txt
 
 Enter additional text to append: Learning file handling in python.
+
 Data successfully append.
 
 Final content of output.txt:
+
 Hello, Python!
+
 Learning file handling in python.
