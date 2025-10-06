@@ -23,7 +23,9 @@ This script (`Read a File and Handle Errors.py`) demonstrates how to open and re
 **If `sample.txt` exists:**
 
 Reading file content:
+
 Line 1: This is a sample text file.
+
 Line 2: It contains multiple lines.
 
 
